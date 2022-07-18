@@ -17,8 +17,6 @@ CAD e CAFD (em mm) multiplicando TAW e RAW pela profundidade do perfil z.
 
 Quanto às saídas, acho interessante acrescentar as unidades, principalmente se a gente for calcular TAW  e RAW em unidade de lâmina, que é obtida pela multiplicação pela profundidade
 
-quanto à estética, não acho que seja necessário investir nisto. O importante é ser fácil de entender e usar, o que já está acontecendo
-
 
 
 DONE:
