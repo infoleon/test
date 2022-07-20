@@ -12,7 +12,7 @@ link to test page:
 
 MELHORIAS SUGERIDAS:
 
-
+Como está em inglês, melhor trocar CAD por TAWC e CAFD por RAWC
 
 DONE:
 
