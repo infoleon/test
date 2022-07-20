@@ -12,7 +12,6 @@ link to test page:
 
 MELHORIAS SUGERIDAS:
 
-Como está em inglês, melhor trocar CAD por TAWC e CAFD por RAWC
 
 DONE:
 
@@ -28,4 +27,5 @@ CAD e CAFD (em mm) multiplicando TAW e RAW pela profundidade do perfil z.
 Quanto às saídas, acho interessante acrescentar as unidades, principalmente se a gente for calcular TAW  e RAW em unidade de lâmina, que é obtida pela multiplicação pela profundidade
 
 
+trocar CAD por TAWC e CAFD por RAWC
 
