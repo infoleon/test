@@ -37,7 +37,7 @@ a.visited{ style=color: powderblue;
 </style>
 <body>
 
-<p>atualizado em: 20.Juli.2022 - 14:30</p>
+<p>atualizado em: 20.Juli.2022 - 14:56</p>
 <h2>Plant available water predicted by a dynamic flux-based approach</h2>
 
 <p> <i> &alpha; </i> : <input style="font-size: 2.5vh; width : 25vw;" type="number" id="al" value="2.0" >  [m<sup>-1</sup>] </p>
@@ -302,9 +302,9 @@ cafd = raw * dep * 1000;
 cad  = taw * dep * 1000;
 
 document.getElementById("raw").innerHTML = "RAW: " + raw.toFixed(5);
-document.getElementById("CAFD").innerHTML = "CAFD: " + cafd.toFixed(5) + "  [mm]";
+document.getElementById("CAFD").innerHTML = "RAWC: " + cafd.toFixed(5) + "  [mm]";
 document.getElementById("taw").innerHTML = "TAW: " + taw.toFixed(5);
-document.getElementById("CAD").innerHTML = "CAD: " + cad.toFixed(5) + "  [mm]";
+document.getElementById("CAD").innerHTML = "TAWC: " + cad.toFixed(5) + "  [mm]";
 document.getElementById("thlp").innerHTML = "&theta;<sub>LP</sub>: " + ThL.toFixed(5);
 document.getElementById("thwp").innerHTML = "&theta;<sub>WP</sub>: " + ThW.toFixed(5);
 document.getElementById("thFC").innerHTML = "&theta;<sub>FC</sub>: " + ThFC.toFixed(5);
