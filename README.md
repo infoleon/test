@@ -10,8 +10,9 @@ link to test page:
 
 
 
-MELHORIAS SUGERIDAS:
+THINGS TO IMPROVE:
 
+-- (none, for now) --
 
 DONE:
 
@@ -19,7 +20,6 @@ talvez no botão "available water" vc poderia colocar "flux-based calculation" o
 
 e tirar o 'amazing' quando a gente tiver o doi do artigo
 
---
 
 CAD e CAFD (em mm) multiplicando TAW e RAW pela profundidade do perfil z.
 
